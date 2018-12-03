@@ -1,0 +1,13 @@
+<?php
+define('CLIENT_ID', '1234567890.apps.googleusercontent.com');
+
+/**
+ * Get the list of authorized usernames (Google email address)
+ * @return array of strings, each containing an email address.
+ */
+function get_authorized_users() {
+	return [
+		'asdf@example.com',
+	];
+}
+?>

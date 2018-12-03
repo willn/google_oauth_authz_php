@@ -1,0 +1,3 @@
+function getAuthzURL() {
+	return 'http://www.example.com/authorization.php';
+};
