@@ -1,10 +1,4 @@
-<?php
-require_once 'config.php';
-session_start();
-if (!isset($_SESSION['username'])) {
-	header('Location: ' . TOP_LEVEL_PATH);
-}
-?>
+<?php require_once 'sso.php'; ?>
 
 <!doctype html>
 <html>
