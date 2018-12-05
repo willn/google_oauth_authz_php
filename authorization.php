@@ -5,7 +5,7 @@
  */
 
 // include the google autoload file
-require_once 'google-api-php-client_git/vendor/autoload.php';
+require_once 'vendor/autoload.php';
 require_once 'config.php';
 
 check_token();

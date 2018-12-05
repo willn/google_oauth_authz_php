@@ -14,3 +14,7 @@ cp js/config.js_default js/config.js
 
 Then modify them with your own settings.
 
+Acquire the package via composer, using the [directions in their project](https://github.com/googleapis/google-api-php-client#composer).
+
+`composer require google/apiclient:"^2.0"`
+
