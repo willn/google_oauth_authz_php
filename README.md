@@ -7,8 +7,10 @@ This is written using a combination of js and php.
 
 Copy the following files:
 
-```cp config.php_default config.php
-cp js/config.js_default js/config.js```
+```
+cp config.php_default config.php
+cp js/config.js_default js/config.js
+```
 
 Then modify them with your own settings.
 
